@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.demo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.demo > button {
+  color: blue;
+  background-color: greenyellow;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
